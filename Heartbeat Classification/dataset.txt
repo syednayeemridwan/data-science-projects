@@ -1,0 +1,8 @@
+dataset taken from:
+https://www.kaggle.com/datasets/kinguistics/heartbeat-sounds
+
+Note:
+Initially the dataset has 2 subfolders: set_a and set_b containing different types of heartbeat audios.
+From these, I have created "normal" and "abnormal" subfolders.
+"normal" subfolder contains all the heartbeat audios that are labelled as normal
+"abnormal" subfolder contains all the heartbeat audios that are labelled as murmur, extrahls, extrastole
